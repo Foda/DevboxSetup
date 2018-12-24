@@ -12,3 +12,6 @@ choco install filezilla
 choco install paint.net
 choco install tortoisesvn
 choco install spotify
+
+# install hyper-v
+choco install -y Microsoft-Hyper-V-All --source="'windowsFeatures'"

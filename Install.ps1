@@ -8,6 +8,7 @@ Disable-UAC
 executeScript "SystemConfiguration.ps1";
 executeScript "FileExplorerSettings.ps1";
 executeScript "RemoveDefaultApps.ps1";
+executeScript "PrivacyConfig.ps1";
 executeScript "CommonDevTools.ps1";
 
 #--- Tools ---
